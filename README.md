@@ -16,3 +16,8 @@
 ## Sonar Config
 
 ![Reddit Clone Website](./sonar.jpg)
+
+## Gmail CI Notification
+
+![Reddit Clone Website](./gmail.jpg)
+
