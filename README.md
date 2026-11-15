@@ -1,5 +1,6 @@
-# Reddit Clone App on Kubernetes
-Test 200
+## Website Preview
+
+![Reddit Clone Website](./web.jpg)
 
 
 
